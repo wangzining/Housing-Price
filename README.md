@@ -1,4 +1,4 @@
-##House Price
+## House Price ##
 
 Group Project by Wenxuan Wang, Wenda Zheng, Zining Wang
 
