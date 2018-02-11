@@ -1,4 +1,13 @@
-CS378 Final Group Project by Wenxuan Wang, Wenda Zheng, Zining Wang
+##House Price
+
+Group Project by Wenxuan Wang, Wenda Zheng, Zining Wang
+
+This project investigate how different features can affect house prices.
+
+Usage
+----------
+
+* 2017.5 Version
 
 Since we used Jupyter, we directly exported the files as a pdf file
 
@@ -13,3 +22,7 @@ To run:
 
 Alternatively, we provide a regular file that has extension of .py. This could be run in terminal with
 	python combined.py
+
+* 2017.12 Version
+
+We added xgboost+lasso(0.13013,baseline).ipynb file and generated test results in price_sol.csv. This final model gives us better prediction.
